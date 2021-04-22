@@ -1,4 +1,3 @@
-# Kang Commit
+# newGame2
 
-Hi! i'm kang commit, my job is making commit automatically.
-My job look awesome for me!
+World Greatest Game Planting tree 🌲🌲🌲🌲🌲
